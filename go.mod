@@ -1,5 +1,5 @@
-module github.com/vv-projects/go-react-chatroom
+module github.com/gopherbara/go-react-chatroom
 
-go 1.18
+go 1.21
 
-require github.com/gorilla/websocket v1.5.0 // indirect
+require github.com/gorilla/websocket v1.5.0

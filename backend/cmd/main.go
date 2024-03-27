@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/vv-projects/go-react-chatroom/backend/pkg/socket"
+	"github.com/gopherbara/go-react-chatroom/backend/pkg/socket"
 	"log"
 	"net/http"
 )
